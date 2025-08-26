@@ -1,36 +1,37 @@
 # Site Settings
-title                    : "Anran Tao"
-description              : "Double degree in Environmental Chemistry and Economics, Peking University. Research in atmospheric chemistry, air pollution, and environmental health."
-repository               : "taoanran/taoanran.github.io"
-google_scholar_stats_use_cdn : true
+title: "Anran Tao"
+description: "Double degree in Environmental Chemistry and Economics, Peking University. Research in atmospheric chemistry, air pollution, and environmental health."
+repository: "AnranAria-Tao/AnranAria-Tao.github.io"
+google_scholar_stats_use_cdn: true
+baseurl: ""  # 根目录部署必须为空
 
 # google analytics
-google_analytics_id      :  # 如果需要，填入 Google Analytics ID
+google_analytics_id:  # 如果需要，填入 Google Analytics ID
 
 # SEO Related
-google_site_verification :  
-bing_site_verification   :  
-baidu_site_verification  :  
+google_site_verification:  
+bing_site_verification:  
+baidu_site_verification:  
 
 # Site Author
 author:
-  name             : "Anran Tao"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate student, College of Environmental Sciences and Engineering & National School of Development, Peking University."
-  location         : "Beijing, China"
-  employer         : "Peking University"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "taoanran@stu.pku.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  github           : "https://github.com/taoanran"
-  linkedin         :  # e.g., "https://www.linkedin.com/in/yourprofile"
-  dblp             : 
-  orcid            :  # e.g., "https://orcid.org/xxxx"
-  twitter          : 
-  weibo            :
-  youtube          :
+  name: "Anran Tao"
+  avatar: "images/android-chrome-512x512.png"
+  bio: "Undergraduate student, College of Environmental Sciences and Engineering & National School of Development, Peking University."
+  location: "Beijing, China"
+  employer: "Peking University"
+  pubmed: 
+  googlescholar: "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email: "taoanran@stu.pku.edu.cn"
+  researchgate:  
+  uri: 
+  github: "https://github.com/AnranAria-Tao"
+  linkedin:  
+  dblp: 
+  orcid:  
+  twitter: 
+  weibo: 
+  youtube: 
 
 # Reading Files
 include:
@@ -114,6 +115,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
