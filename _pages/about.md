@@ -1,58 +1,47 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+# About Me
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am a dedicated and high-achieving student pursuing a double degree in Environmental Chemistry and Economics at Peking University, with a strong academic record (GPA: 3.809/4.00, top 10% in college). My research focuses on the molecular composition of full-volatility organic compounds in urban areas, and I have gained valuable international experience through exchange programs at the University of Manchester and UC Berkeley. I am passionate about exploring the intersection of environmental science, public health, and data science, and aim to contribute to sustainable solutions for global environmental challenges.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024*: Awarded the National Scholarship by the Ministry of Education of the People's Republic of China.
+- *2024*: Received the Pacemaker to Merit Student award from Peking University.
+- *2023*: Honored with the Academic Excellence Award and the Okamatsu Scholarship at Peking University.
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+*Note: Based on the provided CV, no publications are listed. This section can be updated as research outcomes are published.*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* National Scholarship, Ministry of Education of the People's Republic of China
+- *2024* Pacemaker to Merit Student, Peking University
+- *2023* Academic Excellence Award, Peking University
+- *2023* The Okamatsu Scholarship, Peking University
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *Expected 2026* Double Degree in Environmental Chemistry and Economics, Peking University (GPA: 3.809/4.00)
+- *2024* Visiting Programme in Environment Science and Data Science, The University of Manchester, UK
+- *2025* Summer Session in Public Health, University of California, Berkeley, US
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🔬 Research Experience
+- *2023 – Present* Undergraduate Researcher under Professor Song Guo, Peking University  
+  Project: Molecular Composition Characters of Full-volatility Organic Compounds in Urban Area of Beijing  
+  - Part of the National Innovation Training Program  
+  - Received the Special Prize of the Youth Science Award of the Peking University Challenge Cup
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🌍 Environmental Integrated Practice
+- *2023* Shanghai, China  
+  Visited companies specializing in environmental techniques including water recycling, solid waste treatment, carbon collection, and carbon trade. Studied ecological restoration of Suzhou River and Zhujiajiao, and observed the development of an environmentally friendly community.
+  
+- *2024* Hebei, China  
+  Conducted environmental monitoring at Saihan Dam, evaluating air, water, and soil indicators, and performed a comprehensive assessment of the local ecological environment.
+
+# 💻 Exchange Experiences
+- *2024* University of Manchester, UK  
+  Focused on data science, climate model operation, VOCs research, and atmospheric research instruments.
+
+- *2025* University of California, Berkeley, US  
+  Engaged in public and global health studies, with field trips to UCSF and Kaiser Permanente, exploring the relationship between environment and health.
+
+---
+**Note**: The template includes placeholder text (e.g., Lorem ipsum) in some sections which can be updated or removed as more information becomes available. The structure follows a typical academic/about page format. Let me know if you'd like to add more personalization or additional sections!
