@@ -47,5 +47,3 @@ I am a dedicated and high-achieving student pursuing a double degree in Environm
 - *2025* University of California, Berkeley, US  
   Engaged in public and global health studies, with field trips to UCSF and Kaiser Permanente, exploring the relationship between environment and health.
 
----
-**Note**: The template includes placeholder text (e.g., Lorem ipsum) in some sections which can be updated or removed as more information becomes available.
