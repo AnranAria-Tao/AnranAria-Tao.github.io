@@ -1,7 +1,7 @@
 
 # Site Settings
 title: "Anran Tao"
-description: "Double degree in Environmental Chemistry and Economics, Peking University. Research in atmospheric chemistry, air pollution, and environmental health."
+description: "Double degree in Environmental Chemistry and Economics, Peking University."
 repository: "AnranAria-Tao/AnranAria-Tao.github.io"
 google_scholar_stats_use_cdn: true
 baseurl: ""  # 根目录部署必须为空
