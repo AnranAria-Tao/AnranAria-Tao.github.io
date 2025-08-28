@@ -6,7 +6,7 @@ permalink: /
 
 # About Me {#about-me}
 
-I am a undergraduate student pursuing a double degree in Environmental Chemistry and Economics in Peking University. My previous research focuses on the molecular composition of full-volatility organic compounds in urban areas, and I have gained valuable international experience through exchange programs at the University of Manchester and UC Berkeley. I am passionate about exploring the intersection of environmental science and chemistry, and aim to contribute to sustainable solutions for global environmental challenges.
+I am a undergraduate student pursuing a double degree in Environmental Chemistry and Economics in Peking University. My previous research focuses on the molecular composition of full-volatility organic compounds in urban areas, and I have gained valuable international experience through exchange programs at the University of Manchester and UC Berkeley. I am passionate about exploring the intersection of environmental science and chemistry, especially in atmospheric chemistry, and aim to contribute to sustainable solutions for global environmental challenges.
 
 ## 🔥 News {#news}
 - *2025*: Summer school of the University of California, Berkeley.
