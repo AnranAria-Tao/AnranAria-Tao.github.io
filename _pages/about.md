@@ -12,7 +12,7 @@ I am a undergraduate student pursuing a double degree in Environmental Chemistry
 - *2025*: Summer school of the University of California, Berkeley.
 - *2024*: Visting the University of Manchester, UK.
 - *2023*: Received as a double degeree student at National School of development, Peking University, majoring in Economics.
-- *2022*: Entered the college of Environmental Sciences and Engineering, Peking University.
+- *2022*: Entered the college of Environmental Sciences and Engineering, Peking University as an undergraduate student.
 
 ## 📝 Publications {#publications}
 *Hope it's not empty soon.*
@@ -34,7 +34,7 @@ I am a undergraduate student pursuing a double degree in Environmental Chemistry
   - Part of the National Innovation Training Program  
   - Received the Special Prize of the Youth Science Award of the Peking University Challenge Cup
     
-- *2025 – present* Undergraduate student in Professor Chen qi's group, Peking University  
+- *2025 – present* Undergraduate student in Professor Chen Qi's group, Peking University  
 
 ## 🌍 Environmental Integrated Practice {#environmental-integrated-practice}
 - *2023* Shanghai, China  
